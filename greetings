@@ -1,0 +1,9 @@
+class Greetings
+{
+  public static void main(String[] arguments)
+  {
+    // Store the text in a string variable
+    String greeting = "Greetings Programs";
+    System.out.println(greeting);
+  }
+}
